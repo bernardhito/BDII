@@ -1,5 +1,5 @@
 
-
+mysql -u root -p
 
 CREATE DATABASE MTEC_DS2;
 
